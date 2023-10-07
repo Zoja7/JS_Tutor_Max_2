@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "wfewfwefew@asfdas",
+      "name": "David",
+      "surname": "Doe",
+      "id": 1
+    },
+    {
+      "email": "wfewfwefew@asfdas",
+      "name": "Tom",
+      "surname": "Doe",
+      "id": 2
+    },
+    {
+      "email": "dwgewefe@dwfwefw",
+      "name": "David",
+      "surname": "Doe",
+      "id": 3
+    },
+    {
+      "email": "wfewfwefew@asfdas",
+      "name": "",
+      "surname": "Doe Mario",
+      "id": 4
+    }
+  ]
+}
